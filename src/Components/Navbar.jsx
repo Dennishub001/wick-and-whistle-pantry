@@ -1,5 +1,4 @@
 import React from "react";
-import "./Navbar.";
 
 function Navbar() {
   return (
