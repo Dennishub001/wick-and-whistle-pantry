@@ -1,0 +1,457 @@
+{
+  "recipes": [
+    {
+      "publisher": "The Kitchn",
+      "title": "Easy Spaghetti with Garlic Butter",
+      "id": "1",
+      "image": "images/1.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "8 oz spaghetti",
+        "4 tbsp butter",
+        "3 cloves garlic, minced",
+        "Salt and pepper to taste",
+        "2 tbsp chopped parsley"
+      ],
+      "instructions": "Cook spaghetti according to package directions. While pasta cooks, melt butter in a saucepan. Add garlic and cook for 1 minute. Drain pasta, reserve some pasta water. Toss with garlic butter, add water as needed. Season and stir in parsley."
+    },
+    {
+      "publisher": "Serious Eats",
+      "title": "Simple Chicken Alfredo",
+      "id": "2",
+      "image": "images/2.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "1 lb fettuccine",
+        "1 lb chicken breast, cut into strips",
+        "2 tbsp olive oil",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan",
+        "Salt and pepper"
+      ],
+      "instructions": "Cook fettuccine. Heat oil in a skillet, cook seasoned chicken until done. Remove. Simmer cream, stir in Parmesan. Add pasta and chicken. Toss to coat."
+    },
+    {
+      "publisher": "Bon Appétit",
+      "title": "Vegetarian Tacos",
+      "id": "3",
+      "image": "images/3.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "8 corn tortillas",
+        "1 can black beans, drained",
+        "1 cup corn",
+        "1 avocado, sliced",
+        "1/4 cup chopped red onion",
+        "Hot sauce to taste"
+      ],
+      "instructions": "Warm tortillas. Mix beans, corn, onion. Spoon into tortillas, top with avocado and hot sauce."
+    },
+    {
+      "publisher": "Delish",
+      "title": "One-Pot Mac and Cheese",
+      "id": "4",
+      "image": "images/4.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "2 cups elbow macaroni",
+        "2 1/2 cups milk",
+        "1 cup shredded cheddar",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper"
+      ],
+      "instructions": "Combine macaroni and milk in pot. Simmer until tender. Stir in cheese, salt, and pepper until creamy."
+    },
+    {
+      "publisher": "BBC Good Food",
+      "title": "Grilled Lemon Herb Chicken",
+      "id": "5",
+      "image": "images/5.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "2 chicken breasts",
+        "Juice of 1 lemon",
+        "2 tbsp olive oil",
+        "1 tsp dried oregano",
+        "Salt and pepper"
+      ],
+      "instructions": "Marinate chicken with all ingredients for 30 mins. Grill over medium heat for 6–7 mins per side."
+    },
+    {
+      "publisher": "NYT Cooking",
+      "title": "Creamy Mushroom Risotto",
+      "id": "6",
+      "image": "images/6.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "1 cup arborio rice",
+        "4 cups chicken broth",
+        "1/2 cup white wine",
+        "1 cup mushrooms, sliced",
+        "1/2 cup grated Parmesan",
+        "2 tbsp butter"
+      ],
+      "instructions": "Sauté mushrooms. Add rice, toast lightly. Add wine, stir. Add broth gradually, stirring. Finish with butter and Parmesan."
+    },
+    {
+      "publisher": "AllRecipes",
+      "title": "Quick Shrimp Stir Fry",
+      "id": "7",
+      "image": "images/7.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "1 lb shrimp, peeled",
+        "2 cups mixed vegetables",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 clove garlic, minced"
+      ],
+      "instructions": "Heat oil, cook garlic and shrimp for 2 mins. Add veggies and soy sauce. Stir-fry 5–6 mins more."
+    },
+    {
+      "publisher": "Minimalist Baker",
+      "title": "Vegan Buddha Bowl",
+      "id": "8",
+      "image": "images/8.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "1 cup quinoa",
+        "1 sweet potato, cubed",
+        "1/2 cup chickpeas",
+        "1/2 avocado",
+        "Tahini dressing"
+      ],
+      "instructions": "Cook quinoa. Roast sweet potato. Arrange with chickpeas, avocado, and drizzle tahini dressing."
+    },
+    {
+      "publisher": "Food Network",
+      "title": "Classic Beef Tacos",
+      "id": "9",
+      "image": "images/9.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "1 lb ground beef",
+        "1 packet taco seasoning",
+        "8 taco shells",
+        "1/2 cup shredded lettuce",
+        "1/4 cup diced tomatoes"
+      ],
+      "instructions": "Brown beef, add seasoning. Spoon into taco shells. Top with lettuce and tomatoes."
+    },
+    {
+      "publisher": "Smitten Kitchen",
+      "title": "Savory Zucchini Fritters",
+      "id": "10",
+      "image": "images/10.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "2 zucchinis, grated",
+        "1 egg",
+        "1/4 cup flour",
+        "Salt and pepper",
+        "2 tbsp olive oil"
+      ],
+      "instructions": "Squeeze water from zucchini. Mix with egg, flour, seasoning. Fry spoonfuls in hot oil until golden."
+    },
+    {
+      "publisher": "Taste of Home",
+      "title": "Baked Salmon with Dill",
+      "id": "11",
+      "image": "images/11.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "2 salmon fillets",
+        "1 tbsp olive oil",
+        "1 tsp dried dill",
+        "1 lemon, sliced",
+        "Salt and pepper"
+      ],
+      "instructions": "Preheat oven to 400°F. Place salmon on foil. Drizzle oil, sprinkle dill, top with lemon slices. Bake 15 mins."
+    },
+    {
+      "publisher": "Tasty",
+      "title": "Garlic Butter Steak Bites",
+      "id": "12",
+      "image": "images/12.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "1 lb sirloin steak, cubed",
+        "3 tbsp butter",
+        "3 cloves garlic, minced",
+        "Salt and pepper",
+        "Fresh parsley"
+      ],
+      "instructions": "Season steak. Sear in hot pan. Add butter and garlic, cook 1 min. Garnish with parsley."
+    },
+    {
+      "publisher": "Forks Over Knives",
+      "title": "Chickpea Curry",
+      "id": "13",
+      "image": "images/13.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "1 can chickpeas",
+        "1/2 onion, chopped",
+        "1 clove garlic",
+        "1 cup coconut milk",
+        "2 tbsp curry powder"
+      ],
+      "instructions": "Sauté onion and garlic. Add curry powder, chickpeas, and coconut milk. Simmer 15 mins."
+    },
+    {
+      "publisher": "Simply Recipes",
+      "title": "Stuffed Bell Peppers",
+      "id": "14",
+      "image": "images/14.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "4 bell peppers",
+        "1 cup cooked rice",
+        "1/2 lb ground beef",
+        "1/2 cup tomato sauce",
+        "1/4 cup shredded cheese"
+      ],
+      "instructions": "Cut tops off peppers. Mix rice, beef, sauce. Fill peppers. Bake at 375°F for 25 mins. Top with cheese."
+    },
+    {
+      "publisher": "Budget Bytes",
+      "title": "Egg Fried Rice",
+      "id": "15",
+      "image": "images/15.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "2 cups cooked rice",
+        "2 eggs",
+        "1/2 cup frozen peas",
+        "2 tbsp soy sauce",
+        "1 green onion, chopped"
+      ],
+      "instructions": "Scramble eggs in oil, push to side. Add rice and peas, stir-fry. Add soy sauce and mix. Top with green onion."
+    },
+    {
+      "publisher": "Love and Lemons",
+      "title": "Roasted Veggie Pasta",
+      "id": "16",
+      "image": "images/16.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "8 oz penne",
+        "1 zucchini, chopped",
+        "1 bell pepper, chopped",
+        "1/2 red onion",
+        "2 tbsp olive oil"
+      ],
+      "instructions": "Roast vegetables at 425°F for 20 mins. Cook pasta. Toss pasta with veggies, oil, and seasoning."
+    },
+    {
+      "publisher": "Half Baked Harvest",
+      "title": "Honey Garlic Chicken Thighs",
+      "id": "17",
+      "image": "images/17.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "4 chicken thighs",
+        "2 tbsp soy sauce",
+        "2 tbsp honey",
+        "2 cloves garlic, minced",
+        "1 tbsp oil"
+      ],
+      "instructions": "Mix soy, honey, garlic. Marinate chicken. Sear in pan until cooked through. Spoon sauce over top."
+    },
+    {
+      "publisher": "Gimme Some Oven",
+      "title": "Spinach and Feta Quesadilla",
+      "id": "18",
+      "image": "images/18.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "2 tortillas",
+        "1 cup spinach",
+        "1/4 cup crumbled feta",
+        "1/4 cup shredded mozzarella",
+        "Olive oil"
+      ],
+      "instructions": "Heat oil in skillet. Add tortilla, layer fillings, top with another tortilla. Cook until golden and flip."
+    },
+    {
+      "publisher": "Skinnytaste",
+      "title": "Turkey Zucchini Burgers",
+      "id": "19",
+      "image": "images/19.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "1 lb ground turkey",
+        "1 zucchini, grated",
+        "1 egg",
+        "1/4 cup breadcrumbs",
+        "Salt and pepper"
+      ],
+      "instructions": "Mix all ingredients. Form into patties. Grill or pan-fry for 4–5 mins per side."
+    },
+    {
+      "publisher": "Feasting at Home",
+      "title": "Coconut Lentil Soup",
+      "id": "20",
+      "image": "images/20.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "1 cup red lentils",
+        "1/2 onion, chopped",
+        "1 clove garlic",
+        "1 tsp turmeric",
+        "1 cup coconut milk"
+      ],
+      "instructions": "Sauté onion and garlic. Add lentils, turmeric, and water. Simmer 20 mins. Stir in coconut milk and serve."
+    },
+    {
+      "publisher": "Damn Delicious",
+      "title": "Baked Teriyaki Salmon",
+      "id": "21",
+      "image": "images/21.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "2 salmon fillets",
+        "1/4 cup teriyaki sauce",
+        "1 tsp sesame seeds",
+        "1 green onion, sliced",
+        "Foil for baking"
+      ],
+      "instructions": "Place salmon on foil, pour teriyaki sauce, wrap. Bake at 400°F for 15 mins. Garnish with sesame seeds and green onion."
+    },
+    {
+      "publisher": "The Woks of Life",
+      "title": "Chinese Eggplant with Garlic Sauce",
+      "id": "22",
+      "image": "images/22.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "2 Chinese eggplants",
+        "2 cloves garlic",
+        "1 tbsp soy sauce",
+        "1 tsp sugar",
+        "1 tsp cornstarch"
+      ],
+      "instructions": "Stir-fry eggplant in oil. Mix garlic, soy, sugar, and cornstarch with water. Add sauce to eggplant and cook until thick."
+    },
+    {
+      "publisher": "The Modern Proper",
+      "title": "Creamy Tomato Tortellini Soup",
+      "id": "23",
+      "image": "images/23.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "1 tbsp olive oil",
+        "1 clove garlic",
+        "1 can crushed tomatoes",
+        "2 cups chicken broth",
+        "1 cup cheese tortellini"
+      ],
+      "instructions": "Sauté garlic in oil. Add tomatoes and broth, bring to simmer. Add tortellini and cook per package instructions."
+    },
+    {
+      "publisher": "Pinch of Yum",
+      "title": "Sweet Potato Black Bean Tacos",
+      "id": "24",
+      "image": "images/24.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "1 sweet potato, cubed",
+        "1 can black beans",
+        "1 tsp cumin",
+        "Tortillas",
+        "Sour cream (optional)"
+      ],
+      "instructions": "Roast sweet potatoes with oil and cumin. Warm beans and tortillas. Fill tacos and top with sour cream."
+    },
+    {
+      "publisher": "Healthy Seasonal Recipes",
+      "title": "Sheet Pan Chicken Fajitas",
+      "id": "25",
+      "image": "images/25.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "2 chicken breasts, sliced",
+        "1 red bell pepper",
+        "1 yellow bell pepper",
+        "1 onion",
+        "Fajita seasoning"
+      ],
+      "instructions": "Toss everything with seasoning and oil. Roast on sheet pan at 425°F for 25 mins. Serve with tortillas."
+    },
+    {
+      "publisher": "Eatwell101",
+      "title": "Cheesy Garlic Breadsticks",
+      "id": "26",
+      "image": "images/26.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "1 pizza dough",
+        "2 tbsp butter",
+        "2 cloves garlic",
+        "1/2 cup mozzarella",
+        "Parsley"
+      ],
+      "instructions": "Roll out dough. Brush with garlic butter. Top with cheese. Bake at 375°F for 15 mins."
+    },
+    {
+      "publisher": "The Pioneer Woman",
+      "title": "Beef and Bean Chili",
+      "id": "27",
+      "image": "images/27.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "1 lb ground beef",
+        "1 can kidney beans",
+        "1 can diced tomatoes",
+        "1 tbsp chili powder",
+        "Salt and pepper"
+      ],
+      "instructions": "Cook beef, add beans, tomatoes, and spices. Simmer for 30 mins. Serve with toppings of choice."
+    },
+    {
+      "publisher": "Cafe Delites",
+      "title": "Crispy Baked Chicken Wings",
+      "id": "28",
+      "image": "images/28.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "2 lbs chicken wings",
+        "1 tbsp baking powder",
+        "1 tsp salt",
+        "1/2 tsp paprika",
+        "Cooking spray"
+      ],
+      "instructions": "Toss wings with baking powder and seasoning. Bake on rack at 425°F for 40 mins until crispy."
+    },
+    {
+      "publisher": "Platings and Pairings",
+      "title": "Creamy Pesto Gnocchi",
+      "id": "29",
+      "image": "images/29.jpg",
+      "isFavorite": false,
+      "ingredients": [
+        "1 package gnocchi",
+        "1/2 cup pesto",
+        "1/4 cup cream",
+        "Parmesan cheese",
+        "Salt and pepper"
+      ],
+      "instructions": "Boil gnocchi until they float. Simmer pesto and cream. Toss with gnocchi and cheese."
+    },
+    {
+      "publisher": "Cookie and Kate",
+      "title": "Quinoa and Black Bean Salad",
+      "id": "30",
+      "image": "images/30.jpg",
+      "isFavorite": true,
+      "ingredients": [
+        "1 cup cooked quinoa",
+        "1 can black beans",
+        "1/2 red bell pepper",
+        "2 tbsp lime juice",
+        "Fresh cilantro"
+      ],
+      "instructions": "Mix all ingredients in a bowl. Chill before serving. Adjust seasoning to taste."
+    }
+  ]
+}
