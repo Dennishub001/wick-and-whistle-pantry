@@ -4,6 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div >
+        <h1>testing the elements</h1>
       
       <h1 className="tittle">Wick & Whistle Pantry </h1>
       </div>
