@@ -1,4 +1,4 @@
-
+import FavoritesPage from './Components/FavouritesPage'
 import './App.css'
 
 function App() {
