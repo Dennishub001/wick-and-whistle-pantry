@@ -5,7 +5,7 @@
       "title": "Easy Spaghetti with Garlic Butter",
       "id": "1",
       "image": "images/1.jpg",
-      "isFavorite": false,
+      "isFavorite": true,
       "ingredients": [
         "8 oz spaghetti",
         "4 tbsp butter",
@@ -36,7 +36,7 @@
       "title": "Vegetarian Tacos",
       "id": "3",
       "image": "images/3.jpg",
-      "isFavorite": false,
+      "isFavorite": true,
       "ingredients": [
         "8 corn tortillas",
         "1 can black beans, drained",
@@ -67,7 +67,7 @@
       "title": "Grilled Lemon Herb Chicken",
       "id": "5",
       "image": "images/5.jpg",
-      "isFavorite": true,
+      "isFavorite": false,
       "ingredients": [
         "2 chicken breasts",
         "Juice of 1 lemon",
@@ -98,7 +98,7 @@
       "title": "Quick Shrimp Stir Fry",
       "id": "7",
       "image": "images/7.jpg",
-      "isFavorite": true,
+      "isFavorite": false,
       "ingredients": [
         "1 lb shrimp, peeled",
         "2 cups mixed vegetables",
@@ -158,7 +158,7 @@
       "title": "Baked Salmon with Dill",
       "id": "11",
       "image": "images/11.jpg",
-      "isFavorite": true,
+      "isFavorite": false,
       "ingredients": [
         "2 salmon fillets",
         "1 tbsp olive oil",
@@ -173,7 +173,7 @@
       "title": "Garlic Butter Steak Bites",
       "id": "12",
       "image": "images/12.jpg",
-      "isFavorite": true,
+      "isFavorite": false,
       "ingredients": [
         "1 lb sirloin steak, cubed",
         "3 tbsp butter",
@@ -233,7 +233,7 @@
       "title": "Roasted Veggie Pasta",
       "id": "16",
       "image": "images/16.jpg",
-      "isFavorite": true,
+      "isFavorite": false,
       "ingredients": [
         "8 oz penne",
         "1 zucchini, chopped",
@@ -278,7 +278,7 @@
       "title": "Turkey Zucchini Burgers",
       "id": "19",
       "image": "images/19.jpg",
-      "isFavorite": true,
+      "isFavorite": false,
       "ingredients": [
         "1 lb ground turkey",
         "1 zucchini, grated",
@@ -308,7 +308,7 @@
       "title": "Baked Teriyaki Salmon",
       "id": "21",
       "image": "images/21.jpg",
-      "isFavorite": true,
+      "isFavorite": false,
       "ingredients": [
         "2 salmon fillets",
         "1/4 cup teriyaki sauce",
@@ -353,7 +353,7 @@
       "title": "Sweet Potato Black Bean Tacos",
       "id": "24",
       "image": "images/24.jpg",
-      "isFavorite": true,
+      "isFavorite": false,
       "ingredients": [
         "1 sweet potato, cubed",
         "1 can black beans",
@@ -368,7 +368,7 @@
       "title": "Sheet Pan Chicken Fajitas",
       "id": "25",
       "image": "images/25.jpg",
-      "isFavorite": true,
+      "isFavorite": false,
       "ingredients": [
         "2 chicken breasts, sliced",
         "1 red bell pepper",
@@ -398,7 +398,7 @@
       "title": "Beef and Bean Chili",
       "id": "27",
       "image": "images/27.jpg",
-      "isFavorite": true,
+      "isFavorite": false,
       "ingredients": [
         "1 lb ground beef",
         "1 can kidney beans",
@@ -443,7 +443,7 @@
       "title": "Quinoa and Black Bean Salad",
       "id": "30",
       "image": "images/30.jpg",
-      "isFavorite": true,
+      "isFavorite": false,
       "ingredients": [
         "1 cup cooked quinoa",
         "1 can black beans",

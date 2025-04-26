@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import RecipeCard from './Components/RecipeCard';
 import FavoritesPage from './Components/FavouritesPage';
 import './App.css'; // make sure you have your styles
+import SearchBar from './Components/SearchBar';
 
 function App() {
   const [recipes, setRecipes] = useState([]);
@@ -21,6 +22,7 @@ function App() {
         <Link to="/" className="nav-button">Home</Link>
         <Link to="/favorites" className="nav-button">My Favorites</Link>
       </nav>
+      <SearchBar />
 
       {/* Routes */}
       <Routes>

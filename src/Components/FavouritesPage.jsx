@@ -5,7 +5,9 @@ function FavoritesPage({ recipes, onFavoriteToggle }) {
   const favoriteRecipes = recipes.filter(recipe => recipe.isFavorite);
 
   return (
-    <div className="recipe-container">
+    <>
+    <h1>Recipe Favorites</h1>
+    <div className="recipe-container">        
       {favoriteRecipes.length > 0 ? (
         favoriteRecipes.map(recipe => (
           <RecipeCard 
@@ -18,7 +20,10 @@ function FavoritesPage({ recipes, onFavoriteToggle }) {
         <p>No favorites yet. Add some from the homepage!</p>
       )}
     </div>
+    </>
   );
 }
+
+
 
 export default FavoritesPage;
