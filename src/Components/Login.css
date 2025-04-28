@@ -1,65 +1,77 @@
-/* login.css */
 
-/* General body styles */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f7fc;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #74ebd5 0%, #ACB6E5 100%);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.signup-container {
+  background: #ffffff;
+  padding: 40px 30px;
+  border-radius: 20px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  max-width: 420px;
+  width: 100%;
+  text-align: center;
+  animation: fadeIn 1s ease-out;
+}
+
+.signup-container h2 {
+  margin-bottom: 30px;
+  font-size: 32px;
+  color: #333333;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+input.signup-form  {
+  width: 100%;
+  padding: 15px;
+  margin: 12px 0;
+  border: none;
+  border-radius: 12px;
+  background-color: #f1f1f1;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+input.signup-form :focus {
+  background-color: #e0e0e0;
+  outline: none;
+}
+
+button.signup-form  {
+  width: 100%;
+  padding: 15px;
+  margin-top: 20px;
+  background: linear-gradient(90deg, #667eea, #764ba2);
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background 0.4s ease, transform 0.2s ease;
+}
+
+button.signup-form:hover {
+  background: linear-gradient(90deg, #5a67d8, #6b46c1);
+  transform: translateY(-2px);
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
   }
-  
-  /* Login container styles */
-  .login-container {
-    background-color: white;
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    width: 100%;
-    max-width: 400px;
-    text-align: center;
+  100% {
+    opacity: 1;
+    transform: translateY(0);
   }
-  
-  /* Heading styles */
-  .login-container h2 {
-    font-size: 24px;
-    color: #333;
-    margin-bottom: 20px;
-  }
-  
-  /* Error message styles */
-  .login-container .error {
-    color: red;
-    font-size: 14px;
-    margin-bottom: 15px;
-  }
-  
-  /* Input field styles */
-  .login-container input {
-    width: 100%;
-    padding: 10px;
-    margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    font-size: 16px;
-    box-sizing: border-box;
-  }
-  
-  /* Button styles */
-  .login-container button {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 10px;
-    border-radius: 5px;
-    font-size: 16px;
-    cursor: pointer;
-    width: 100%;
-    transition: background-color 0.3s ease;
-  }
-  
-  
-  
+} 

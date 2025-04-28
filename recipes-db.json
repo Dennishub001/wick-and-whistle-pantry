@@ -52,7 +52,7 @@
       "title": "One-Pot Mac and Cheese",
       "id": "4",
       "image": "images/4.jpg",
-      "isFavorite": false,
+      "isFavorite": true,
       "ingredients": [
         "2 cups elbow macaroni",
         "2 1/2 cups milk",
@@ -82,7 +82,7 @@
       "title": "Creamy Mushroom Risotto",
       "id": "6",
       "image": "images/6.jpg",
-      "isFavorite": false,
+      "isFavorite": true,
       "ingredients": [
         "1 cup arborio rice",
         "4 cups chicken broth",
